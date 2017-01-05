@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jhonnysanchez/FullStackNanodegree/fullstack/vagrant","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/vagrant/animalSheltersDB":{"guestpath":"/vagrant/animalSheltersDB","hostpath":"/Users/jhonnysanchez/FullStackNanodegree/fullstack/vagrant/animalSheltersDB","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/jhonnysanchez/FullStackNanodegree/fullstack/vagrant","disabled":false,"__vagrantfile":true}}}

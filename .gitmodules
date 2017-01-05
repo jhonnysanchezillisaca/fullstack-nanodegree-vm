@@ -1,0 +1,3 @@
+[submodule "vagrant/animal_shelters_db/animalSheltersDB"]
+	path = vagrant/animal_shelters_db/animalSheltersDB
+	url = https://github.com/jhonnysanchezillisaca/animalSheltersDB
